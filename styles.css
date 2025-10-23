@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Bungee-Regular";
-  src: url("./Bungee/Bungee-Regular.ttf") format("truetype");
+  src: url("/Bungee/Bungee-Regular.ttf") format("truetype");
 }
 
 
@@ -28,4 +28,5 @@ p  {
 
 body {
 	background-color: rgba(137, 243, 54);
+
 }
